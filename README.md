@@ -1,8 +1,9 @@
 # TradingCardsResource
-Resource Pack for Minecraft Trading Cards Plugin
+Resource Pack for Trading Cards Plugin (formerly Xen's Trading Cards) for Minecraft
 Tested and working on Optifine 1.18.1 HD U H4
 
 Requires OptiFine
+Requires Trading Cards plugin: https://github.com/sarhatabaot/TradingCards
 Place the zip file inside the ...\.minecraft\resourcepacks directory
 Enable custome item textures in Video settings
 Enable the resource pack.
