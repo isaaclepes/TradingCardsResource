@@ -24,7 +24,8 @@ Convert to Sarhatabaot's fork of Xen's Trading Cards (See: https://github.com/sa
 Produce a new card back/series for each year.<br />
 Possibly add holiday cardbacks as well.<br />
 Include sample Trading Cards plugin configurations.<br />
-Add new cards.<br />
+Add new cards.<br/>
+Update all card models.
 
 
 Forked from Xen's Trading Cards Resource Pack originally by 'DarnComputer':<br />https://www.curseforge.com/minecraft/texture-packs/xens-trading-cards-resource-pack<br />
