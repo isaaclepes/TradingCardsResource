@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
+		"1": "item/cat/persian",
 		"2": "item/card/2020",
+		"3": "item/cat/persian_nameplate",
 		"4": "item/card/front_field",
-		"5": "item/pig/pig",
-		"6": "item/pig/pig_nameplate",
 		"7": "item/card/front_bg",
 		"particle": "particle/card/2020"
 	},
@@ -93,37 +93,50 @@
 			"to": [10, 2.35, 8.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [15.5, 0, 16, 16], "texture": "#6"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#6"},
-				"west": {"uv": [0, 0, 0.69565, 16], "texture": "#6"},
-				"up": {"uv": [0, 0, 16, 0.67391], "texture": "#6"},
-				"down": {"uv": [0, 15.32609, 16, 16], "texture": "#6"}
+				"east": {"uv": [15.5, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.69565, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 0.67391], "texture": "#3"},
+				"down": {"uv": [0, 15.32609, 16, 16], "texture": "#3"}
 			}
 		},
 		{
 			"name": "head",
-			"from": [6.485, 2.98833, 8.06],
-			"to": [9.485, 5.98833, 9.06],
+			"from": [6.485, 2.66333, 8.06],
+			"to": [9.485, 5.66333, 9.56],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [4, 4, 4.75, 8], "texture": "#5"},
-				"south": {"uv": [2, 4, 4, 8], "texture": "#5"},
-				"west": {"uv": [1.25, 4, 2, 8], "texture": "#5"},
-				"up": {"uv": [4, 4, 2, 0], "texture": "#5"},
-				"down": {"uv": [6, 0, 4, 4], "texture": "#5"}
+				"east": {"uv": [2.5, 2.5, 3.25, 4.5], "texture": "#1"},
+				"south": {"uv": [1.25, 2.5, 2.5, 4.5], "texture": "#1"},
+				"west": {"uv": [0.5, 2.5, 1.25, 4.5], "texture": "#1"},
+				"up": {"uv": [1.25, 1, 2.5, 2.5], "texture": "#1"},
+				"down": {"uv": [7.5, 1, 6.25, 1.75], "texture": "#1"}
 			}
 		},
 		{
-			"name": "snout",
-			"from": [7.235, 3.36333, 9.06],
-			"to": [8.735, 4.48333, 9.56],
+			"name": "ear_right",
+			"from": [6.785, 5.66333, 8.06],
+			"to": [7.385, 6.26333, 8.31],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [5.25, 8.5, 5.5, 10], "texture": "#5"},
-				"south": {"uv": [4.25, 8.5, 5.25, 10], "texture": "#5"},
-				"west": {"uv": [4, 8.5, 4.25, 10], "texture": "#5"},
-				"up": {"uv": [4.25, 8.5, 5.25, 8.25], "texture": "#5"},
-				"down": {"uv": [5.25, 8, 4.25, 8.25], "texture": "#5"}
+				"east": {"uv": [2, 6, 2.5, 6.5], "texture": "#1"},
+				"south": {"uv": [1, 6, 1.5, 6.5], "texture": "#1"},
+				"west": {"uv": [0.5, 6, 1, 6.5], "texture": "#1"},
+				"up": {"uv": [1, 6, 0.5, 5], "texture": "#1"},
+				"down": {"uv": [2.5, 5, 2, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "ear_left",
+			"from": [8.585, 5.66333, 8.06],
+			"to": [9.185, 6.26333, 8.31],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
+			"faces": {
+				"east": {"uv": [2, 6, 2.5, 6.5], "texture": "#1"},
+				"south": {"uv": [1, 6, 1.5, 6.5], "texture": "#1"},
+				"west": {"uv": [0.5, 6, 1, 6.5], "texture": "#1"},
+				"up": {"uv": [1, 6, 0.5, 5], "texture": "#1"},
+				"down": {"uv": [2.5, 5, 2, 6], "texture": "#1"}
 			}
 		}
 	],
@@ -177,7 +190,7 @@
 					"name": "subject",
 					"origin": [0, 23, 0],
 					"color": 0,
-					"children": [7, 8]
+					"children": [7, 8, 9]
 				}
 			]
 		}
