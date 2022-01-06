@@ -6,7 +6,7 @@ Requires OptiFine<br />
 Requires Trading Cards plugin:<br />
 https://github.com/sarhatabaot/TradingCards<br />
 (Old version) https://github.com/Xenoyia/XenTradingCards<br />
-Place the zip file inside the ...\.minecraft\resourcepacks directory<br />
+Place the zip file inside the minecraft\resourcepacks directory<br />
 Enable custome item textures in Video settings<br />
 Enable the resource pack.<br />
 
