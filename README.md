@@ -17,3 +17,4 @@ Possibly add holiday cardbacks as well.<br />
 Include sample Trading Cards plugin configurations.<br />
 
 Inspired by Xen's Trading Cards Resource Pack by 'DarnComputer':<br />https://www.curseforge.com/minecraft/texture-packs/xens-trading-cards-resource-pack<br />
+Textures for deck and nameplates are original to this project.  All other textures are copyright Mojang.
