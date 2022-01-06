@@ -1,4 +1,4 @@
-# TradingCardsResource
+# Trading Cards Resource Pack
 Resource Pack for Trading Cards Plugin (formerly Xen's Trading Cards) for Minecraft
 Tested and working on Optifine 1.18.1 HD U H4
 
