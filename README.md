@@ -11,7 +11,7 @@ Enable custome item textures in Video settings<br />
 Enable the resource pack.<br />
 
 To-do / Goals:<br />
-Convert to Sarhatabaot's fork of Xen's Trading Cards (See: https://github.com/sarhatabaot/TradingCards )<br />
+Convert to Sarhatabaot's fork of Xen's Trading Cards.  Use model-id instead of names for matching. (See: https://github.com/sarhatabaot/TradingCards )<br />
 Produce a new card back/series for each year.<br />
 Possibly add holiday cardbacks as well.<br />
 Include sample Trading Cards plugin configurations.<br />
