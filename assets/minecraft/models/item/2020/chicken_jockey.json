@@ -215,7 +215,6 @@
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"gui": {
-			"rotation": [0, -180, 0],
 			"translation": [0.25, 9, 0],
 			"scale": [2, 2, 2]
 		},
@@ -235,6 +234,8 @@
 			"name": "base",
 			"origin": [15, 10, 15.25],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -247,17 +248,23 @@
 					"name": "subject",
 					"origin": [0, 23, 0],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [
 						{
 							"name": "chicken",
 							"origin": [8, 3.52352, 8.11667],
 							"color": 0,
+							"nbt": "{}",
+							"armAnimationEnabled": false,
 							"children": [7, 8, 9]
 						},
 						{
 							"name": "Zombie",
 							"origin": [0, 23, 0],
 							"color": 0,
+							"nbt": "{}",
+							"armAnimationEnabled": false,
 							"children": [10, 11, 12, 13]
 						}
 					]
