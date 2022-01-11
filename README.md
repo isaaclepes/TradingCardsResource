@@ -14,7 +14,10 @@ To-do / Goals:<br />
 Convert to Sarhatabaot's fork of Xen's Trading Cards.  Use model-id instead of names for matching. (See: https://github.com/sarhatabaot/TradingCards )<br />
 Produce a new card back/series for each year.<br />
 Possibly add holiday cardbacks as well.<br />
-Include sample Trading Cards plugin configurations.<br />
+
+Alpha cards.yml - This cards.yml is designed for compatibility with a snapshot release of TradingCards
+https://gist.github.com/isaaclepes/790486b22f30519eac4ca5125617f2fd
+
 
 Inspired by Xen's Trading Cards Resource Pack by 'DarnComputer':<br />https://www.curseforge.com/minecraft/texture-packs/xens-trading-cards-resource-pack<br />
 Textures for deck and nameplates are original to this project.  All other textures are copyright Mojang.
