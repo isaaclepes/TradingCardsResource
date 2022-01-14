@@ -5,7 +5,7 @@
 		"4": "item/card/valentine",
 		"6": "item/diamond/diamond_nameplate",
 		"7": "item/card/front_bg",
-		"9": "item/diamond",
+		"9": "item/diamond/diamond",
 		"particle": "particle/card/2022"
 	},
 	"elements": [
