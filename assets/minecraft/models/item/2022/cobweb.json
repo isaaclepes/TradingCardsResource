@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/snowgolem/snow_golem",
 		"2": "item/card/2022",
-		"3": "item/snowgolem/snow_golem_nameplate",
-		"4": "item/card/christmas",
+		"4": "item/card/halloween",
+		"6": "item/cobweb/cobweb_nameplate",
 		"7": "item/card/front_bg",
+		"8": "item/cobweb/cobweb",
 		"particle": "particle/card/2022"
 	},
 	"elements": [
@@ -93,24 +93,31 @@
 			"to": [10, 2.35, 8.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [15.5, 0, 16, 16], "texture": "#3"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 0.69565, 16], "texture": "#3"},
-				"up": {"uv": [0, 0, 16, 0.67391], "texture": "#3"},
-				"down": {"uv": [0, 15.32609, 16, 16], "texture": "#3"}
+				"east": {"uv": [15.5, 0, 16, 16], "texture": "#6"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"west": {"uv": [0, 0, 0.69565, 16], "texture": "#6"},
+				"up": {"uv": [0, 0, 16, 0.67391], "texture": "#6"},
+				"down": {"uv": [0, 15.32609, 16, 16], "texture": "#6"}
 			}
 		},
 		{
-			"name": "head",
-			"from": [6.485, 2.98833, 8.06],
-			"to": [9.485, 5.98833, 9.06],
-			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
+			"name": "jackolantern",
+			"from": [7.77751, 3, 8.57893],
+			"to": [9.27751, 6, 8.57893],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8.52751, 4.5, 8.57893]},
 			"faces": {
-				"east": {"uv": [4.25, 2, 5, 4], "texture": "#1"},
-				"south": {"uv": [2, 2, 4.25, 4], "texture": "#1"},
-				"west": {"uv": [1.25, 2, 2, 4], "texture": "#1"},
-				"up": {"uv": [4.25, 2, 2, 1.25], "texture": "#1"},
-				"down": {"uv": [6, 1.25, 4.25, 2], "texture": "#1"}
+				"north": {"uv": [0, 0, 8, 16], "texture": "#8"},
+				"south": {"uv": [8, 0, 16, 16], "texture": "#8"}
+			}
+		},
+		{
+			"name": "jackolantern",
+			"from": [6.72678, 3, 8.58322],
+			"to": [8.22678, 6, 8.58322],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.47678, 4.5, 8.58322]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 16], "texture": "#8"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#8"}
 			}
 		}
 	],
@@ -168,7 +175,7 @@
 					"color": 0,
 					"nbt": "{}",
 					"armAnimationEnabled": false,
-					"children": [7]
+					"children": [7, 8]
 				}
 			]
 		}

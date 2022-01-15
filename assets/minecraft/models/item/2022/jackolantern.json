@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/snowgolem/snow_golem",
 		"2": "item/card/2022",
-		"3": "item/snowgolem/snow_golem_nameplate",
-		"4": "item/card/christmas",
+		"4": "item/card/halloween",
+		"6": "item/jackolantern/jack_o_lantern_nameplate",
 		"7": "item/card/front_bg",
+		"8": "item/jackolantern/jack_o_lantern",
 		"particle": "particle/card/2022"
 	},
 	"elements": [
@@ -93,24 +93,24 @@
 			"to": [10, 2.35, 8.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [15.5, 0, 16, 16], "texture": "#3"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 0.69565, 16], "texture": "#3"},
-				"up": {"uv": [0, 0, 16, 0.67391], "texture": "#3"},
-				"down": {"uv": [0, 15.32609, 16, 16], "texture": "#3"}
+				"east": {"uv": [15.5, 0, 16, 16], "texture": "#6"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"west": {"uv": [0, 0, 0.69565, 16], "texture": "#6"},
+				"up": {"uv": [0, 0, 16, 0.67391], "texture": "#6"},
+				"down": {"uv": [0, 15.32609, 16, 16], "texture": "#6"}
 			}
 		},
 		{
-			"name": "head",
-			"from": [6.485, 2.98833, 8.06],
-			"to": [9.485, 5.98833, 9.06],
-			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
+			"name": "jackolantern",
+			"from": [6.5, 3, 8.06],
+			"to": [9.5, 6, 9.06],
 			"faces": {
-				"east": {"uv": [4.25, 2, 5, 4], "texture": "#1"},
-				"south": {"uv": [2, 2, 4.25, 4], "texture": "#1"},
-				"west": {"uv": [1.25, 2, 2, 4], "texture": "#1"},
-				"up": {"uv": [4.25, 2, 2, 1.25], "texture": "#1"},
-				"down": {"uv": [6, 1.25, 4.25, 2], "texture": "#1"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#8"},
+				"east": {"uv": [13, 0, 16, 16], "texture": "#8"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#8"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#8"},
+				"up": {"uv": [0, 0, 16, 3], "texture": "#8"},
+				"down": {"uv": [0, 13, 16, 16], "texture": "#8"}
 			}
 		}
 	],
