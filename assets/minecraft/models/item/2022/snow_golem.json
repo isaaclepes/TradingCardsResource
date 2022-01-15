@@ -5,7 +5,7 @@
 		"1": "item/snowgolem/snow_golem",
 		"2": "item/card/2022",
 		"3": "item/snowgolem/snow_golem_nameplate",
-		"4": "item/card/front_field",
+		"4": "item/card/christmas",
 		"7": "item/card/front_bg",
 		"particle": "particle/card/2022"
 	},
@@ -152,6 +152,8 @@
 			"name": "base",
 			"origin": [15, 10, 15.25],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -164,6 +166,8 @@
 					"name": "subject",
 					"origin": [0, 23, 0],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [7]
 				}
 			]

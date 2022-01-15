@@ -3,7 +3,7 @@
 	"texture_size": [64, 128],
 	"textures": {
 		"2": "item/card/2021",
-		"4": "item/card/front_field",
+		"4": "item/card/halloween",
 		"5": "item/witch/witch",
 		"6": "item/witch/witch_nameplate",
 		"7": "item/card/front_bg",
@@ -234,6 +234,8 @@
 			"name": "base",
 			"origin": [15, 10, 15.25],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [
 				0,
 				1,
@@ -246,6 +248,8 @@
 					"name": "subject",
 					"origin": [0, 23, 0],
 					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
 					"children": [7, 8, 9, 10, 11, 12, 13]
 				}
 			]
