@@ -2,8 +2,8 @@
 	"credit": "Created by Isaac LePes",
 	"texture_size": [64, 128],
 	"textures": {
-		"0": "item/witch/witch",
-		"particle": "item/witch/witch"
+		"0": "entity/witch",
+		"particle": "entity/witch"
 	},
 	"elements": [
 		{
