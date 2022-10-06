@@ -17,6 +17,8 @@ Compatible with TradingCards NBT tag CustomModelData. Prevents card counterfeiti
 Incredibly small. Almost all textures are referenced from Minecraft internal resources.<br />
 Tested on Optifine for 1.19.2<br /><br />
 
+![image](https://user-images.githubusercontent.com/54421422/194282188-adab4cea-c2a0-4e99-bb8f-46e325024c33.png)
+
 To-do / Goals:<br /><br />
 Produce a new card backs for each year.<br />
 Produce cards for all mobs in game.<br />
