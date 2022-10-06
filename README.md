@@ -1,22 +1,26 @@
 # Trading Cards Resource Pack
 Resource Pack for Trading Cards Plugin (formerly Xen's Trading Cards) for Minecraft
-Tested and working on Optifine 1.18.1 HD U H4
+https://www.curseforge.com/minecraft/texture-packs/trading-cards-resource-pack
 
 Requires OptiFine<br />
 Requires Trading Cards plugin:<br />
 https://github.com/sarhatabaot/TradingCards<br />
-(Old version) https://github.com/Xenoyia/XenTradingCards<br />
+(Old version for resource pack version 2.2.0) https://github.com/Xenoyia/XenTradingCards<br />
 Place the zip file inside the minecraft\resourcepacks directory<br />
 Enable custome item textures in Video settings<br />
 Enable the resource pack.<br />
 
-To-do / Goals:<br />
-Convert to Sarhatabaot's fork of Xen's Trading Cards.  Use model-id instead of names for matching. (See: https://github.com/sarhatabaot/TradingCards )<br />
-Produce a new card back/series for each year.<br />
-Possibly add holiday cardbacks as well.<br />
+Features:<br /><br />
+100 cards and counting!<br />
+Compatible with TradingCards NBT tag CustomModelData. Prevents card counterfeiting by renaming paper.<br />
+Incredibly small. Almost all textures are referenced from Minecraft internal resources.<br />
+Tested on Optifine for 1.19.2
 
-Alpha cards.yml - This cards.yml is designed for compatibility with a snapshot release of TradingCards
-https://gist.github.com/isaaclepes/790486b22f30519eac4ca5125617f2fd
+To-do / Goals:<br /><br />
+Produce a new card backs for each year.<br />
+Produce cards for all mobs in game.
+Produce additional holiday/season theme cards.
+
 
 
 Inspired by Xen's Trading Cards Resource Pack by 'DarnComputer':<br />https://www.curseforge.com/minecraft/texture-packs/xens-trading-cards-resource-pack<br />
