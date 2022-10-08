@@ -1,7 +1,7 @@
 # Trading Cards Resource Pack<br /><br />
 Resource Pack for Minecraft Spigot TradingCards Plugin.<br /><br />
 
-Download Official Releases from Cusrseforge: https://www.curseforge.com/minecraft/texture-packs/trading-cards-resource-pack<br /><br />
+Download Official Releases from Cusrseforge:<br />https://www.curseforge.com/minecraft/texture-packs/trading-cards-resource-pack<br /><br />
 
 Requires OptiFine<br />
 Requires Trading Cards plugin:<br />
