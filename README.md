@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/54421422/194735636-5232db64-1f01-45b8-9c38-ee64e15bfb1a.png" width="150">
+
 # Trading Cards Resource Pack<br /><br />
 Resource Pack for Minecraft Spigot TradingCards Plugin.<br /><br />
 
