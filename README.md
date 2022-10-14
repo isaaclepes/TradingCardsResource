@@ -24,12 +24,6 @@ Tested on Optifine for 1.19.2<br /><br />
 
 ![image](https://user-images.githubusercontent.com/54421422/194282188-adab4cea-c2a0-4e99-bb8f-46e325024c33.png)
 
-To-do / Goals:<br /><br />
-Produce a new card backs for each year.<br />
-Produce cards for all mobs in game.<br />
-Produce additional holiday/season theme cards.<br /><br /><br />
-
-
 Use resource pack version 2.2.0 for Xen's TradingCards: https://github.com/Xenoyia/XenTradingCards<br /><br />
 
 Inspired by Xen's Trading Cards Resource Pack by 'DarnComputer':<br />https://www.curseforge.com/minecraft/texture-packs/xens-trading-cards-resource-pack<br />
