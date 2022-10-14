@@ -1,6 +1,9 @@
+<img src="https://user-images.githubusercontent.com/54421422/194735636-5232db64-1f01-45b8-9c38-ee64e15bfb1a.png" width="150">
+
 # Trading Cards Resource Pack<br /><br />
-Resource Pack for Trading Cards Plugin (formerly Xen's Trading Cards) for Minecraft<br />
-https://www.curseforge.com/minecraft/texture-packs/trading-cards-resource-pack
+Resource Pack for Minecraft Spigot TradingCards Plugin.<br /><br />
+
+Download Official Releases from Cusrseforge:<br />https://www.curseforge.com/minecraft/texture-packs/trading-cards-resource-pack<br /><br />
 
 Requires OptiFine<br />
 Requires Trading Cards plugin:<br />
@@ -10,6 +13,8 @@ Installation:<br /><br />
 Place the zip file inside the minecraft\resourcepacks directory<br />
 Enable custom item textures in Video settings<br />
 Enable the resource pack.<br />
+
+Discord: https://discord.gg/2kBzNb2cRy<br /><br />
 
 Features:<br /><br />
 100 cards and counting!<br />
