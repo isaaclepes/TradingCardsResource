@@ -2,12 +2,9 @@
 	"credit": "Created by Isaac LePes",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "block/deepslate_copper_ore",
-		"4": "block/grass_block_side",
 		"5": "entity/parrot/parrot_red_blue",
 		"6": "item/parrot/parrot_red_nameplate",
-		"7": "block/gold_block",
-		"particle": "block/deepslate_copper_ore"
+		"7": "block/gold_block"
 	},
 	"elements": [
 		{
@@ -16,12 +13,12 @@
 			"to": [10.5, 7, 8.01],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"east": {"uv": [15, 0, 16, 16], "texture": "#4"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
-				"west": {"uv": [0, 0, 1, 16], "texture": "#4"},
-				"up": {"uv": [0, 0, 16, 1], "texture": "#4"},
-				"down": {"uv": [0, 15, 16, 16], "texture": "#4"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+				"down": {"uv": [0, 15, 16, 16], "texture": "#missing"}
 			}
 		},
 		{
@@ -43,11 +40,11 @@
 			"to": [10.5, 0.444, 8.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [15, 15, 16, 16], "texture": "#4"},
-				"south": {"uv": [0, 15, 16, 16], "texture": "#4"},
-				"west": {"uv": [0, 15, 1, 16], "texture": "#4"},
-				"up": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#4"},
-				"down": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#4"}
+				"east": {"uv": [15, 15, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 15, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 15, 1, 16], "texture": "#missing"},
+				"up": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#missing"},
+				"down": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#missing"}
 			}
 		},
 		{
@@ -56,11 +53,11 @@
 			"to": [10.5, 6.999, 8.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [15, 0, 16, 1], "texture": "#4"},
-				"south": {"uv": [0, 0, 16, 1], "texture": "#4"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#4"},
-				"up": {"uv": [0, 0, 16, 1], "texture": "#4"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#4"}
+				"east": {"uv": [15, 0, 16, 1], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#missing"}
 			}
 		},
 		{
@@ -69,9 +66,9 @@
 			"to": [5.944, 6.556, 8.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [0, 1, 1, 15], "texture": "#4"},
-				"south": {"uv": [0, 1, 1, 15], "texture": "#4"},
-				"west": {"uv": [0, 1, 1, 15], "texture": "#4"}
+				"east": {"uv": [0, 1, 1, 15], "texture": "#missing"},
+				"south": {"uv": [0, 1, 1, 15], "texture": "#missing"},
+				"west": {"uv": [0, 1, 1, 15], "texture": "#missing"}
 			}
 		},
 		{
@@ -80,9 +77,9 @@
 			"to": [10.5, 6.556, 8.06],
 			"rotation": {"angle": 0, "axis": "y", "origin": [2.48864, 3.729, 0.22845]},
 			"faces": {
-				"east": {"uv": [15, 1, 16, 15], "texture": "#4"},
-				"south": {"uv": [15, 1, 16, 15], "texture": "#4"},
-				"west": {"uv": [15, 1, 16, 15], "texture": "#4"}
+				"east": {"uv": [15, 1, 16, 15], "texture": "#missing"},
+				"south": {"uv": [15, 1, 16, 15], "texture": "#missing"},
+				"west": {"uv": [15, 1, 16, 15], "texture": "#missing"}
 			}
 		},
 		{
@@ -100,8 +97,8 @@
 		},
 		{
 			"name": "plumage",
-			"from": [7.75, 5.25, 8.025],
-			"to": [7.75, 9, 10.025],
+			"from": [8, 5.25, 8.025],
+			"to": [8, 9, 10.025],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.75, 7.125, 8.775]},
 			"faces": {
 				"east": {"uv": [3, 11, 1.5, 13.5], "texture": "#5"},
