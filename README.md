@@ -15,6 +15,7 @@ Enable custom item textures in Video settings<br />
 Enable the resource pack.<br />
 
 Discord: https://discord.gg/2kBzNb2cRy<br /><br />
+Polls and Suggestions.
 
 Features:<br /><br />
 100 cards and counting!<br />
