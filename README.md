@@ -14,10 +14,11 @@ Place the zip file inside the minecraft\resourcepacks directory<br />
 Enable custom item textures in Video settings<br />
 Enable the resource pack.<br />
 
-Discord: https://discord.gg/2kBzNb2cRy<br /><br />
+Discord: https://discord.gg/2kBzNb2cRy<br />
+Polls and Suggestions.<br />
 
 Features:<br /><br />
-100 cards and counting!<br />
+134 cards and counting!<br />
 Compatible with TradingCards NBT tag CustomModelData. Prevents card counterfeiting by renaming paper.<br />
 Incredibly small. Almost all textures are referenced from Minecraft internal resources.<br />
 Tested on Optifine for 1.19.2<br /><br />
