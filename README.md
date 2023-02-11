@@ -7,7 +7,7 @@ Download Official Releases
 <br />Modrinth: https://modrinth.com/resourcepack/tradingcards-resourcepack
 <br />Cusrseforge: https://www.curseforge.com/minecraft/texture-packs/trading-cards-resource-pack
 
-Requires OptiFine<br />
+Requires OptiFine [Currently there is a bug in OptiFine 1.19.3 HD U I2 pre3 that prevents loading of entity textures]<br />
 Requires Trading Cards plugin:<br />
 https://github.com/sarhatabaot/TradingCards<br />
 
