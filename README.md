@@ -3,11 +3,13 @@
 # Trading Cards Resource Pack<br /><br />
 Resource Pack for Minecraft Spigot TradingCards Plugin.<br /><br />
 
+#### *[Currently there is a bug in OptiFine 1.19.3 Pre-release that prevents loading of entity textures. This causes a black and purple checkerboard texture to appear on cards. This issue has been reported and should be resolved by the time OptiFine 1.19.3 has an official release.]*
+
 Download Official Releases
 <br />Modrinth: https://modrinth.com/resourcepack/tradingcards-resourcepack
 <br />Cusrseforge: https://www.curseforge.com/minecraft/texture-packs/trading-cards-resource-pack
 
-Requires OptiFine [Currently there is a bug in OptiFine 1.19.3 HD U I2 pre3 that prevents loading of entity textures]<br />
+Requires OptiFine<br />
 Requires Trading Cards plugin:<br />
 https://github.com/sarhatabaot/TradingCards<br />
 
